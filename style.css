@@ -37,7 +37,20 @@ section {
 /*-----------------------------------------------------------------------------------
 Theming
 -----------------------------------------------------------------------------------*/
+@keyframes thank {
+  33%   {background-color: black;}
+  33%  {background-color: gold;}
+  33%  {background-color: white;}
 
+#thanks{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	color: #fff;
+	animation-name: thank;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+}
 #dw_wrapper {
 	width: 100%;
 	height: auto;
@@ -180,10 +193,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
 	cursor: pointer;
 	background: #34a87d;
-}
-h1[class="thanks]{
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 8px;
-	text-transform: uppercase;
-	color: #fff;
 }
