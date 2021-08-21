@@ -181,3 +181,9 @@ input[type="submit"]:hover {
 	cursor: pointer;
 	background: #34a87d;
 }
+h1[class="thanks]{
+	font-family: 'Montserrat', sans-serif;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+	color: #fff;
+}
