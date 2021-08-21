@@ -9,16 +9,14 @@ body {
 	font-family: "Roboto", Helvetica, Arial, sans-serif; 
 	font-size: 1.6rem;
 	line-height: 1.75;
-	word-wrap: break-word;
+
 }
 
 @keyframes thank {
   	33%   {color: #000000;}
   	33%  {color:  #d4af37;}
   	33%  {color: #FFFFFF;}
-	33%  {background-color: #d4af37;}
-	33%  {background-color: #FFFFFF;}
-	33%  {background-color: #000000;}
+
 		}
 @keyframes you{
 	33%  {background-color: #d4af37;}
