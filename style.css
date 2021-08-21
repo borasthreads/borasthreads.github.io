@@ -118,19 +118,7 @@ MailChimp Style
 	max-width: 600px;
 	margin: 0 auto;
 }
-@keyframes thank {
-  33%   {background-color: black;}
-  33%  {background-color: gold;}
-  33%  {background-color: white;}
 
-#thanks{
-	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 8px;
-	text-transform: uppercase;
-	color: #fff;
-	animation-name: thank;
-	animation-duration: 5s;
-	animation-iteration-count: infinite;
 }
 input[type="email"] {
 	display: block;
