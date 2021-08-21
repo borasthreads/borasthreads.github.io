@@ -19,8 +19,9 @@ body {
 		}
 h1{
 			font-family: 'Montserrat', sans-serif;
-			padding-left: 100px
-			letter-spacing: 8px;
+			padding-left: 100px;
+			padding-top: 100px;
+			letter-spacing: 5px;
 			text-transform: uppercase;
 			color: #fff;
 			animation-name: thank;
