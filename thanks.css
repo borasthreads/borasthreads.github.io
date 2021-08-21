@@ -28,10 +28,6 @@ h1, h2{
 	padding-left: 40%;
 	letter-spacing: 5px;
 	color: #fff;
-	
-	animation-name: you;
-	animation-duration: 5s;
-	animation-iteration-count: infinite;
 	animation-name: thank;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
