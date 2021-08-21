@@ -13,9 +13,9 @@ body {
 }
 
 @keyframes thank {
-  			33%   {color: black;}
-  			34%  {color: yellow;}
-  			33%  {color: white;}
+  			33%   {color: #000000;}
+  			34%  {color:  #d4af37;}
+  			33%  {color: #FFFFFF;}
 		}
 h1{
 			font-family: 'Montserrat', sans-serif;
