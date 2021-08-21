@@ -27,7 +27,7 @@ body {
 }
 h1{
 	font-family: 'Montserrat', sans-serif;
-	padding: 50%;
+	padding-left: 50%;
 	letter-spacing: 5px;
 	color: #fff;
 	animation-name: thank, you;
