@@ -13,18 +13,20 @@ body {
 }
 
 @keyframes thank {
-  			33%   {color: #000000;}
-  			34%  {color:  #d4af37;}
-  			33%  {color: #FFFFFF;}
+  	33%   {color: #000000;}
+  	33%  {color:  #d4af37;}
+  	33%  {color: #FFFFFF;}
+	33%  {background-color: #d4af37;}
+	33%  {background-color: #FFFFFF;}
+	33%  {background-color: #000000;}
 		}
 h1{
-			font-family: 'Montserrat', sans-serif;
-			padding-left: 100px;
-			padding-top: 100px;
-			letter-spacing: 5px;
-			text-transform: uppercase;
-			color: #fff;
-			animation-name: thank;
-			animation-duration: 5s;
-			animation-iteration-count: infinite;
+	font-family: 'Montserrat', sans-serif;
+	padding-left: 50%;
+	padding-top: 50%;
+	letter-spacing: 5px;
+	color: #fff;
+	animation-name: thank;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
 		}
