@@ -150,7 +150,37 @@ input[type="email"] {
 input[type="email"]:focus {
 	opacity: 0.9;
 }
+input[type="name"] {
+	display: block;
+	width: 100%;
+	height: 4.4rem;
+	max-width: 440px;
+	background: #333;
+	float: left;
+	border: none;
+	outline: none;
+	font-size: 1.6rem;
+	font-family: inherit;
+	font-weight: 400;
+	color: inherit;
+	line-height: 2.2rem;
+	margin: 0 20px 0 0;
+	padding: 0 10px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+	-webkit-font-smoothing: antialiased;
+	-webkit-appearance: none;
+}
 
+input[type="name"]:focus {
+	opacity: 0.9;
+}
 input[type="submit"] {
 	display: block;
 	width: 100%;
