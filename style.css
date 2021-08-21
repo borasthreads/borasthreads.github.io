@@ -72,14 +72,10 @@ h1, h2 {
 	font-size: 22px;
 	font-size: 2.2rem;
 	line-height: 2.2rem;
-	margin: 0 0 20px 0;
-	margin: 0 0 2.0rem 0;
 }
 
 .dw_launch_subtext {
-	margin: 0 0 45px 0;
-	margin: 0 0 6.0rem 0;
-	
+	margin-bottom: 20px;	
 }
 
 #dw_tut_credits {
