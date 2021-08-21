@@ -23,7 +23,7 @@ body {
 	33%  {background-color: #FFFFFF;}
 	33%  {background-color: #000000;}
 }
-h1{
+h1, h2{
 	font-family: 'Montserrat', sans-serif;
 	padding-left: 40%;
 	letter-spacing: 5px;
