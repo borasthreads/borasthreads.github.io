@@ -28,7 +28,11 @@ h1{
 	padding-left: 50%;
 	letter-spacing: 5px;
 	color: #fff;
-	animation-name: thank, you;
+	
+	animation-name: you;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-name: thank;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
 		}
