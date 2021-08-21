@@ -219,3 +219,7 @@ input[type="submit"]:hover {
 	cursor: pointer;
 	background: #34a87d;
 }
+input[type="image"]:hover {
+	cursor: pointer;
+	text-shadow: 0 0 50px, gold;
+}
