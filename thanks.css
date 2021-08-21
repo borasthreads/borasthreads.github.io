@@ -13,12 +13,13 @@ body {
 }
 
 @keyframes thank {
-  			33%   {background-color: black;}
-  			33%  {background-color: gold;}
-  			33%  {background-color: white;}
+  			33%   {color: black;}
+  			34%  {color: yellow;}
+  			33%  {color: white;}
 		}
 h1{
 			font-family: 'Montserrat', sans-serif;
+			padding: 100px
 			letter-spacing: 8px;
 			text-transform: uppercase;
 			color: #fff;
