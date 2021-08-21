@@ -20,13 +20,18 @@ body {
 	33%  {background-color: #FFFFFF;}
 	33%  {background-color: #000000;}
 		}
+@keyframes you{
+	33%  {background-color: #d4af37;}
+	33%  {background-color: #FFFFFF;}
+	33%  {background-color: #000000;}
+}
 h1{
 	font-family: 'Montserrat', sans-serif;
 	padding-left: 50%;
 	padding-top: 50%;
 	letter-spacing: 5px;
 	color: #fff;
-	animation-name: thank;
+	animation-name: thank, you;
 	animation-duration: 5s;
 	animation-iteration-count: infinite;
 		}
