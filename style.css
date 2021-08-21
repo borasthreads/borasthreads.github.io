@@ -24,7 +24,7 @@ html {
 body {
 	background: #2b2b2b;
 	color: #989898;
-	font-family: "Roboto", Helvetica, Arial, sans-serif; 
+	font-family: 'Cormorant Garamond', serif; 
 	font-size: 1.6rem;
 	line-height: 1.75;
 	word-wrap: break-word;
@@ -53,7 +53,7 @@ Theming
 }
 
 h1, h2 {
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Cormorant Garamond', serif;
 	letter-spacing: 8px;
 	text-transform: uppercase;
 	color: #fff;
